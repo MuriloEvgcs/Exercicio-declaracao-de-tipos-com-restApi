@@ -1,0 +1,27 @@
+{
+  "spaceships": [
+    {
+      "id": "1",
+      "name": "Milenium Falcon",
+      "pilot": "Han Solo",
+      "crewLimit": 10,
+      "crew": [
+        "Luke Skywalker",
+        "Leia"
+      ],
+      "inMission": false
+    },
+    {
+      "id": "2",
+      "name": "Discovery",
+      "pilot": "Michael Burnham",
+      "crewLimit": 150,
+      "crew": [
+        "Saru",
+        "Sylvia Tilly",
+        "Paul Stamets"
+      ],
+      "inMission": false
+    }
+  ]
+}
